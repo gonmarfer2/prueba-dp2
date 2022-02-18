@@ -18,11 +18,11 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	
-	<name>Hello-World</name>
-	<description>This is a Hello-World project for the students of Design &amp; Testing.</description>
+	<name>prueba-dp2</name>
+	<description>pestes seb pruebon proyeqtalte-dp2</description>
 
-	<groupId>Acme</groupId>	
-	<artifactId>Hello-World-22.0</artifactId>
+	<groupId>gonmarfer2</groupId>	
+	<artifactId>prueba-dp2</artifactId>
 	<version>22.0</version>
 	<packaging>war</packaging>
 
